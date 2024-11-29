@@ -1,0 +1,25 @@
+Proyecto 1-Parte V (Core)
+Análisis y Predicción de Ventas en una Tienda de Retail
+
+
+Parte V: Exploración y Visualización de Datos Avanzada
+
+En esta quinta parte del proyecto, vamos a expandir nuestro análisis exploratorio de datos (EDA) y visualización utilizando técnicas avanzadas. Aplicaremos todo lo que hemos aprendido hasta ahora, incluyendo cuadrículas, leyendas, anotaciones, flechas, y subplots, para obtener una comprensión más profunda de nuestro conjunto de datos de ventas.
+
+Instrucciones
+
+Continuar desde la Parte IV
+Asegúrate de tener el DataFrame df ya cargado y preparado desde la Parte IV.
+Exploración de Datos Avanzada
+Realiza un análisis de correlación y crea un mapa de calor para visualizar las relaciones entre las variables.
+Crea subplots para comparar diferentes variables clave.
+Añade cuadrículas, leyendas, anotaciones y flechas a tus gráficos para mejorar la claridad y la información.
+Generar un Tag en GitHub y Realizar una Presentación
+Generar un Tag en GitHub: Después de completar el análisis y las visualizaciones, sube los cambios a una nueva rama en tu repositorio de GitHub, genera un Pull Request (PR) para revisión y finalmente crea un tag para esta versión del proyecto.
+Realizar una Presentación: Prepara una presentación en slides que resuma tu análisis y visualizaciones. La presentación debe incluir:
+Introducción y objetivos del proyecto.
+Descripción del conjunto de datos.
+Principales análisis y hallazgos.
+Visualizaciones clave con explicación.
+Conclusiones y recomendaciones.
+Utiliza herramientas como PowerPoint, Google Slides o cualquier otra aplicación de presentació
